@@ -11,7 +11,7 @@ Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/te
 ---
 layout: default
 modal-id: 1
-date: 2020-01-18
+date: 2025-06-18
 img: cabin.png
 alt: image-alt
 project-date: January 2020
